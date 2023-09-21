@@ -4,8 +4,15 @@
   "description": "Fullstack nodejs video tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "test": "echo \"Error: no test specified\" && exit 1" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olafrancis/Nodejsweb.git"
+  },  
   "author": "Ola Francis",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olafrancis/Nodejsweb/issues"
+  },
+  "homepage": "https://github.com/olafrancis/Nodejsweb/#readme"
 }
